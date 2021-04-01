@@ -21,6 +21,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     //zhehsishenme
 
+    //这是第一条分支
+
     QChart *chart = new QChart();
     chart->legend()->hide();
     chart->addSeries(series);
