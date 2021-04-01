@@ -18,6 +18,9 @@ MainWindow::MainWindow(QWidget *parent) :
             << QPointF(18, 3)
             << QPointF(20, 2);
 
+
+    //zhehsishenme
+
     QChart *chart = new QChart();
     chart->legend()->hide();
     chart->addSeries(series);
