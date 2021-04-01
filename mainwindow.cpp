@@ -22,6 +22,7 @@ MainWindow::MainWindow(QWidget *parent) :
     //zhehsishenme
 
     //这是第一条分支
+    //这是我第二次在fun2中修改
 
     QChart *chart = new QChart();
     chart->legend()->hide();
